@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://static.myfigurecollection.net/upload/pictures/2022/03/08/3031328.gif" width="700" alt="Welcome animation" />
+  <img src="https://64.media.tumblr.com/4065965945b3d9aa65389a245dad72f4/02c59e0ed4913e5c-cf/s2048x3072/c2349a9ee703601b97ae322ba7a524e7c61c495c.pnj" />
 </p>
 
 
@@ -16,7 +16,7 @@ Hi, I'm Shantay Joahire <br>°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ
 # ༻𖤓༺ 💻Tech Stack ༻𖤓༺ :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <p align="right">
-  <img src="https://media.tenor.com/AQL8Ss05lz8AAAAj/bubu-think-bubu-thinking.gif" width="200" alt="Cute gif" />
+  <img src="https://64.media.tumblr.com/7448a25ff886ca9587560fa8001f6b9e/af30f053545060d0-cf/s1280x1920/fffa8b62c870baf2714db5292f55659ce2d63f60.pnj" width="200" alt="Cute gif" />
 </p>
 
 # ༻𖤓༺  GitHub Stats༻𖤓༺ 
